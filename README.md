@@ -25,3 +25,7 @@
 | Calidad del código     | 1.5     |
 | Funcionalidad      | 1.5      |
 
+## Hecho por
+
+- Nicolas Esteban Muñoz Sendoya
+- ID estudiantil: 0000302248
